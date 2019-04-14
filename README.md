@@ -16,8 +16,7 @@
 
 ## RG-Netを活用する / When you want to use RG-Net for your reseach
  RG-Netは研究のためのネットワークです。 RG-Netを研究で使いたい場合は、大いに活用してください。 ただし、研究室のメンバーの多くが研究のために一緒に使っているネットワークであることに留意してください。 著しくネットワークを不安定にするような行為、倫理に乖く行為は許されません。 新しい技術をRG-Netで試したい場合は、十分に試験をしてから導入してください。
-
- RG-Netの利用者であるRGメンバーも、明らかな瑕疵がない限り、他の人の研究を暖かくサポートしてください。
+ もちろんRG-Netの利用者であるRGメンバーも、明らかな瑕疵がない限り、他の人の研究を暖かくサポートしてください。
 
  RG-Net is a research network. If you want to use RG-Net for your own research, we welcome this. However, keep in mind that many of the members of RG are using the network together for their research. It is  not accetable  adverse action to the network or act that bothers other users. If you want to try out new technology with RG-Net, please test it before introducing it.
  Of course, RG-Net members should be tolerant of others' research, unless there are serious failure by them.
@@ -29,6 +28,7 @@
  
 # RG-Net利用ルール / Rules for using RG-Net
 RG-Netの利用を希望する場合、必ずこのルールを遵守してください。
+
 You must obey this rules if you wish to use RG-Net.
 
 ## RG-Netのアカウント利用権限について
