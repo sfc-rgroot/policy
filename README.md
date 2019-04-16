@@ -32,7 +32,7 @@ RG-Netの利用を希望する場合、必ずこのルールを遵守してく�
 You must obey this rules if you wish to use RG-Net.
 
 ## RG-Netのアカウント利用権限について
- 以下の要項を満たす場合、このポリシーに同意しることでRG-Netを使用する事ができます
+ 以下の要項を満たす場合、このポリシーに同意することでRG-Netを使用する事ができます
 
 
 - RG(徳田・村井・楠本・中村・高汐・バンミーター・植原・三次・中澤・武田合同研究プロジェクト)に現在所属している学生
@@ -50,26 +50,24 @@ You must obey this rules if you wish to use RG-Net.
 ## 研究・学習のためのトラフィック収集について / About Traffic Collection for Research or Learning
 
  RG-Net利用者は研究/学習のためにトラフィックを収集する事ができます。
-希望者は事前ににrg@sfc.wide.ad.jpに連絡して下さい。
+希望者は事前ににrgroot@sfc.wide.ad.jpに連絡して下さい。
 
- RG-Net members can collect network traffic for research or learning. Be sure to inform at rg@sfc.wide.ad.jp in advance.
+ RG-Net members can collect network traffic for research or learning. Be sure to inform at rgroot@sfc.wide.ad.jp in advance.
 
 
 ## サービスレベル規約 / Service level agreement
- RG-Netでは利用者に一定のサービスレベルを約束していません。
- rgroot運用メンバーは出来る限り安定したサービスを皆様に提供できるように尽力していますが、不具合やメンテナンスのためサービスが停止したり、データが消失した場合、いかなる不都合・損害もrgrootは補償できません。 
+ rgroot運用メンバーは出来る限り安定したサービスを皆様に提供できるように尽力していますが、不具合やメンテナンスのためサービスが停止したり、データが消失した場合、いかなる不都合・損害もrgrootは補償できません。 そのため、RG-Netでは利用者に一定のサービスレベルを約束していません。
  もちろん、精一杯のお手伝いはしますのでトラブルの際は相談して下さい。
  
  
- RG-Net does not promise users a certain level of service.
- Although, rgroot members strive to provide stable service as much as possible, we can not compensate for any inconvenience or damage if the service is stopped or data is lost due to a failure or maintenance.
+ Although, rgroot members strive to provide stable service as much as possible, we can not compensate for any inconvenience or damage if the service is stopped or data is lost due to a failure or maintenance. For that reason, RG-Net does not promise users a certain level of service.
  Of course, we will do our best to help, so please contact rgroot@sfc.wide.ad.jp in case of trouble.
  
  
 
 ## アカウントの停止 / Account suspension
 この運用ポリシーにご同意いただけない場合、他のRG-Net/インターネット利用者の迷惑になる行為を確認した場合、アカウント利用を予告なく停止します。
-アカウントの利用に関してご質問がある場合、rgroot@sfc.wide.ad.jpまでお問い合わせ下さい。
+アカウントの停止に関してご質問がある場合、rgroot@sfc.wide.ad.jpまでお問い合わせ下さい。
 
  We will stop your account without any notice if you don't agree this policy or bother other users.
  If you have any questions about use of RG-Net account, contact to rgroot@sfc.wide.ad.jp.
