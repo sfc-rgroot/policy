@@ -69,6 +69,3 @@
 
  We reserve the right to suspend your account without any notice if you don't agree with this policy or bother other users, both within our laboratory or on the internet in general.
  If you have any questions about the usage of your RG-Net account, please contact rgroot@sfc.wide.ad.jp.
-
-
-- 2019/09/30 改定
