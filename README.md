@@ -15,7 +15,7 @@
  If you find a problem, please work with rgroot members to solve the problem. This experience will help your research. Operate a wonderful network that you can be proud of in the world!
 
 
-## RG-Netを活用する / When you want to use RG-Net for your reseach
+## RG-Netを活用する / When you want to use RG-Net for your research
 
  RG-Netは研究のためのネットワークです。 RG-Netを研究で使いたい場合は、大いに活用してください。 ただし、研究室のメンバーの多くが研究のために一緒に使っているネットワークであることに留意してください。 著しくネットワークを不安定にするような行為、倫理にそむく行為は許されません。 新しい技術をRG-Netで試したい場合は、十分に試験をしてから導入してください。
  もちろんRG-Netの利用者であるRGメンバーも、明らかな瑕疵がない限り、他の人の研究を暖かくサポートしてください。
