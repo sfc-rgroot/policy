@@ -34,13 +34,13 @@
 ## RG-Netのアカウント利用権限について / Restrictions to use RG-Net account
 
  以下の要項を満たす場合、このポリシーに同意することでRG-Netを使用する事ができます
-- RG(村井・楠本・中村・高汐・バンミーター・植原・三次・中澤・手塚・武田合同研究プロジェクト)に現在所属している学生
+- RG(村井・楠本・中村・高汐・バンミーター・植原・三次・中澤・手塚・武田・大越合同研究プロジェクト)に現在所属している学生
 - RGの各研究室で学部/修士/博士論文を提出した者
 - RGに在籍する教職員
 - その他特別の許可を貰った者
 
  If you meet the following requirements, you can use RG-Net by agreeing to this policy
-- Students who belong to RG (Murai/Kusumoto/Nakamura/Takashio/Van Meter/Uehara/Mitsugi/Nakazawa/Tezuka/Takeda) Labs.
+- Students who belong to RG (Murai/Kusumoto/Nakamura/Takashio/Van Meter/Uehara/Mitsugi/Nakazawa/Tezuka/Takeda/Okoshi) Labs.
 - Those who submitted any thesis in RG
 - Faculty or staff who belongs to RG
 - Those who received other special permission
